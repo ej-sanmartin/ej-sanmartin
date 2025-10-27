@@ -23,3 +23,4 @@ I'm building [Unveil](https://unveilengine.com), a 2D and 3D AI game engine to b
 - [Base Lint](https://github.com/marketplace/actions/base-lint-action) - Cross-browser safety, via GitHub Action and CLI.
 - [The Moon Page](https://themoon.page) - Educational site about the moon I made for my nephew.
 - [pkadv.gg](https:pkadv.gg) - Get Pokemon Type Advantages - **Fast**
+- [Strawberry Panic!](https://scratch.mit.edu/projects/1028858782/) - Scratch Game, learned in an evening so I could teach nephew.
