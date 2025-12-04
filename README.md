@@ -19,7 +19,7 @@ I'm building [Unveil](https://unveilengine.com), a 2D and 3D AI game engine to b
 ---
 
 ### 🔧 Some Other Links
-- [tini.la](https://tini.la) - Better linktr.ee with deeper analytics and easy, GRDRP-compliant email capture.
+- [tini.la](https://tini.la) - Better linktr.ee with deeper analytics and easy, GDRP-compliant email capture.
 - [Base Lint](https://github.com/marketplace/actions/base-lint-action) - Cross-browser safety, via GitHub Action and CLI.
 - [The Moon Page](https://themoon.page) - Educational site about the moon I made for my nephew.
 - [pkadv.gg](https:pkadv.gg) - Get Pokemon Type Advantages - **Fast**
