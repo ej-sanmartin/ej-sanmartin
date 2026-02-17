@@ -21,6 +21,7 @@ I also love OSS and make time to work on [SDL](https://github.com/libsdl-org/SDL
 ---
 
 ### 🔧 Some Other Links
+- [PS2 Recomp Discord](https://discord.gg/VY7CqZEJuY) - Founded and maintain a 450+ member PS2 recompilation research community.
 - [tini.la](https://tini.la) - Better linktr.ee with deeper analytics and easy, GDRP-compliant email capture.
 - [Base Lint](https://github.com/marketplace/actions/base-lint-action) - Cross-browser safety, via GitHub Action and CLI.
 - [The Moon Page](https://themoon.page) - Educational site about the moon I made for my nephew.
