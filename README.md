@@ -16,7 +16,7 @@ Outside of coding, you’ll often find me:
 
 I'm building [Unveil](https://github.com/Unveil-gg), game tools to help build your dream game.
 
-I make games under my studio [Jupiter Wave](https://jupiter-wave.com)
+I make games under my studio, [Jupiter Wave](https://jupiter-wave.com)
 
 I also love OSS and make time to work on [SDL](https://github.com/libsdl-org/SDL), [Godot](https://github.com/godotengine/godot), [LÖVE](https://github.com/love2d/love), [openMSX](https://github.com/openMSX/openMSX), and more.
 
