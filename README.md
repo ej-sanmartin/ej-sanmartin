@@ -14,7 +14,7 @@ Outside of coding, you’ll often find me:
 - 🎣 Relaxing with a fishing rod in hand  
 - 🚶 Taking long walks to recharge and find inspiration
 
-I'm building [Unveil](https://github.com/Unveil-gg), game tools to help build your dream game.
+I'm building [Unveil](https://unveil.gg), game tools to help build your dream game.
 
 I make games under my studio, [Jupiter Wave](https://jupiter-wave.com)
 
